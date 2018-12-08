@@ -8,6 +8,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/TyphoonBotApi/Connor"
+   "start": "node bot.js"
   },
   "license": "GPL-2.0",
   "dependencies": {
